@@ -1,0 +1,23 @@
+{
+  "name": "openclaw-server-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobyBotBotBot/openclaw-server-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobyBotBotBot/openclaw-server-test/issues"
+  },
+  "homepage": "https://github.com/TobyBotBotBot/openclaw-server-test#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
