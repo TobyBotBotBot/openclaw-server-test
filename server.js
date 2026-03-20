@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('Railway backend deployed by OpenClaw agent.');
+  res.send('OpenClaw agent deployed this backend.');
 });
 
 app.listen(PORT, () => {
